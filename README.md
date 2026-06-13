@@ -1,6 +1,5 @@
-# Velocity-Run
-Computer Graphics Project
 # Velocity Run 🏎️💨
+Computer Graphics Project
 
 An exciting, action-packed 3D endless racing game built using **C++** and **OpenGL (GLUT)**. Navigate through multiple dynamic maps, dodge traffic, collect coins, and test your reflexes as the speed keeps increasing!
 
@@ -35,4 +34,4 @@ The controls adapt dynamically depending on the active game mode or map:
 ### How to Run via Code::Blocks
 1. Clone this repository to your local system:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Velocity-Run.git](https://github.com/YOUR_USERNAME/Velocity-Run.git)
+   git clone https://github.com/ananta-saha/Velocity-Run.git 
