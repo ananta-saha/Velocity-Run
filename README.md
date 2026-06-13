@@ -31,7 +31,3 @@ The controls adapt dynamically depending on the active game mode or map:
 - **Graphics Library:** OpenGL / GLUT (FreeGLUT)
 - **IDE Context:** Developed and configured using **Code::Blocks** (includes `.cbp` project and layout setup).
 
-### How to Run via Code::Blocks
-1. Clone this repository to your local system:
-   ```bash
-   git clone https://github.com/ananta-saha/Velocity-Run.git 
