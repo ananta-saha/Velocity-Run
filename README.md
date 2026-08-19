@@ -22,12 +22,4 @@ The controls adapt dynamically depending on the active game mode or map:
 - **Restart Game:** Press **'R'** or **'r'** when the game is over to reset your score and start fresh.
 - **Exit/Return to Main Menu:** Press the **ESC** key.
 
----
-
-## 🚀 Tech Stack & Setup
-
-### Requirements
-- **Language:** C++
-- **Graphics Library:** OpenGL / GLUT (FreeGLUT)
-- **IDE Context:** Developed and configured using **Code::Blocks** (includes `.cbp` project and layout setup).
 
